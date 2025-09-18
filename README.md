@@ -8,8 +8,6 @@
 
 ## About Me
 
-Hi! My name is **Vahe Sargsyan**, I'm a **Full-Stack Developer** from Armenia, specialized in **Nuxt.js, Laravel, Vue.js, and modern web technologies**. I build fast, scalable, and user-friendly web applications.  
+Hi! My name is **Vahe Sargsyan**, I'm a **Full-Stack Developer** from Armenia, specialized in **Nuxt.js, Laravel, and modern web technologies**. I build fast, scalable, and user-friendly web applications.  
 
-- 🌐 [Portfolio & Projects](https://vahe.anidzen.com)  
-- 💻 Tech Stack: Nuxt.js, Vue.js, Laravel, Node.js, GraphQL, MySQL, MongoDB  
-- 🛠 Tools: Docker, Git, CI/CD, REST API, GraphQL API
+- 🌐 [Portfolio & Projects](https://vahe.anidzen.com)
