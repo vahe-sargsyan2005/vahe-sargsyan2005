@@ -17,36 +17,8 @@ Hi! My name is **Vahe Sargsyan**, I'm a **Full-Stack Developer** from Armenia, s
 
 ---
 
-## Skills & Technologies
-
-| Frontend | Backend | Database | Tools |
-|----------|--------|----------|-------|
-| Vue.js, Nuxt.js | Laravel, Node.js | MySQL, MongoDB | Docker, Git, CI/CD |
-| TypeScript, JavaScript | REST & GraphQL API | | |
-
----
-
-## Open Source Contributions
-
-- **[Anidzen-app / Sora-landing](https://github.com/Anidzen-app/Sora-landing)** – Multi-language anime API  
-- **[GeoFence](https://github.com/Zone-13/GeoFence)** – Minecraft plugin for world boundaries  
-- **[Rus-military-badges](https://github.com/Zone-13/Rus-military-badges)** – Resource pack for Minecraft  
-
----
-
-## Achievements
-
-- 🏆 Recognized as top GitHub contributor in Armenia  
-- 🐙 GitHub Awards: Quickdraw, Pull Shark  
-
----
-
 ## Contact Me
 
 - 📧 Email: [your-email@example.com]  
 - 🌐 Website: [vahe.anidzen.com](https://vahe.anidzen.com)  
 - 💬 Telegram: [@Vahesargsyan2005](https://t.me/Vahesargsyan2005)  
-
----
-
-*Optimized for search engines: Full-Stack Developer, Nuxt.js, Laravel, Vue.js, GraphQL, Armenia.*
