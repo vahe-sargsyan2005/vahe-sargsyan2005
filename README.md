@@ -12,13 +12,4 @@ Hi! My name is **Vahe Sargsyan**, I'm a **Full-Stack Developer** from Armenia, s
 
 - 🌐 [Portfolio & Projects](https://vahe.anidzen.com)  
 - 💻 Tech Stack: Nuxt.js, Vue.js, Laravel, Node.js, GraphQL, MySQL, MongoDB  
-- 🛠 Tools: Docker, Git, CI/CD, REST API, GraphQL API  
-- 🚀 Current Projects: Animix (anime platform), OTA-KU, GeoFence (Minecraft plugin)  
-
----
-
-## Contact Me
-
-- 📧 Email: [your-email@example.com]  
-- 🌐 Website: [vahe.anidzen.com](https://vahe.anidzen.com)  
-- 💬 Telegram: [@Vahesargsyan2005](https://t.me/Vahesargsyan2005)  
+- 🛠 Tools: Docker, Git, CI/CD, REST API, GraphQL API
